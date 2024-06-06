@@ -4,3 +4,4 @@ A screen built in SwiftUI that allows the selection of a Sweatcoin subscription 
 
 Inspired by the Dribbble mock up [here](https://dribbble.com/shots/16536446-Sweatcoin-Premium-Subscription/attachments/11556205?mode=media )
 
+![](https://github.com/AshleyCanty/SweatcoinSwiftUI/blob/main/sweatcoin.gif)
